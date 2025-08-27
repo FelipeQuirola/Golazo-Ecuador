@@ -33,10 +33,10 @@
 
 <p align="center">
   <img src="assets/screenshots/checkout.png" width="260" alt="Checkout (payment gateway)">
+  <img src="assets/screenshots/email-confirmation.png" width="260" alt="Email confirmation">
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/email-confirmation.png" width="260" alt="Email confirmation">
   <img src="assets/screenshots/mobile.png" width="260" alt="Mobile / responsive view">
 </p>
 
