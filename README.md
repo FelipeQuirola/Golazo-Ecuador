@@ -32,13 +32,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/cartola-summary.png" width="260" alt="Cartola summary">
   <img src="assets/screenshots/checkout.png" width="260" alt="Checkout (payment gateway)">
-  <img src="assets/screenshots/payment-success.png" width="260" alt="Payment success">
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" width="260" alt="User dashboard / My cartolas">
   <img src="assets/screenshots/email-confirmation.png" width="260" alt="Email confirmation">
   <img src="assets/screenshots/mobile.png" width="260" alt="Mobile / responsive view">
 </p>
